@@ -1,0 +1,32 @@
+.container{
+    background-color: white;
+    display: grid;
+    /* grid-template-columns: repeat(5,auto); */
+    grid-template-columns: auto auto 200px auto auto;
+    column-gap: 5px;
+
+}
+
+.one{
+    text-align: center;
+    border: 1px solid gray;
+}
+
+.two{
+    text-align: center;
+    border: 1px solid gray;
+}
+
+.three{
+    text-align: center;
+}
+
+.four{
+    text-align: center;
+    border: 1px solid gray;
+}
+
+.five{
+    text-align: center;
+    border: 1px solid gray;
+}
